@@ -1,0 +1,13 @@
+numpy
+scipy
+pip
+matplotlib
+seaborn
+notebook
+rise
+
+tqdm
+ipywidgets
+scikit-image
+pillow
+longitudinal-tomography
