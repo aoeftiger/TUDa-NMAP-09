@@ -11,3 +11,4 @@ ipywidgets ==8.0.2
 scikit-image ==0.19.3
 pillow ==9.2.0
 longitudinal-tomography ==3.4.3
+Cython ==0.29.32

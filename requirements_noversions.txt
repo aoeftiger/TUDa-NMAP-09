@@ -10,4 +10,5 @@ tqdm
 ipywidgets
 scikit-image
 pillow
+Cython
 longitudinal-tomography
